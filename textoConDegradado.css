@@ -1,0 +1,14 @@
+html{
+    background: #fff;
+}
+
+h1{
+    background: #ccc;
+    background: radial-gradient(#eff1ff, #000);
+    font-family: Roboto;
+    font-size: 3rem;
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip: text;
+}
+   
+
